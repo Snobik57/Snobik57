@@ -3,10 +3,17 @@
 ## Привет 👋
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://avatars.githubusercontent.com/u/105900386?s=400&u=2a0cc03432566196340a4198361b725de0010b1c&v=4)">
+  <img width="300" height="300" src="https://github.com/Snobik57/Snobik57/blob/main/image.png">
+</p>
+<p align="center">
+  📫 Для связи со мной:
 </p>
 
-![](https://avatars.githubusercontent.com/u/105900386?s=400&u=2a0cc03432566196340a4198361b725de0010b1c&v=4)
+<p align="center">
+  <a href="mailto:snobik57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/Snobik57"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
 
 ### **Меня зовут Тимур Гусев.**
 
@@ -24,7 +31,7 @@
 * PyCharm
 * JupiterNotebook
 * Git и GitHub
-* В скором времени изучу *Реляционные базы данных*
+* В скором времени изучу *Реляционные базы данных*. SQL и PostgreSQL
 
 **В моих планах:**
 
