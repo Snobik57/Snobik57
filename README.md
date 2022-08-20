@@ -27,11 +27,12 @@
 * [Курс "Программирование на Python" на Stepik.org](https://stepik.org/cert/1510906)
 * [Курс "Fullstack-разработчик на Python" на Netology.ru](https://netology.ru/programs/fullstack-python-dev)
 
-**Мой stack:**
+**Технологии:**
 * PyCharm
 * JupiterNotebook
-* Git и GitHub
-* В скором времени изучу *Реляционные базы данных*. SQL и PostgreSQL
+* Git
+* MySQL, PostgreSQL (psycopg2, sqlachemy)
+* API VK, API Telegram, API Google Cloud
 
 
 
