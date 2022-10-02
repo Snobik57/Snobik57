@@ -3,7 +3,7 @@
 ## Привет 👋
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/Snobik57/Snobik57/blob/main/image.png">
+  <img src="https://github.com/Snobik57/Snobik57/blob/main/header.png">
 </p>
 <p align="center">
   📫 Для связи со мной:
